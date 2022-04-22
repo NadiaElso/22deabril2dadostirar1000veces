@@ -1,0 +1,9 @@
+.dado1{
+  display: flex;
+  background-color: green;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 50%;
+  height: 50% ;
+}
